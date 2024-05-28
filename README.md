@@ -1,2 +1,2 @@
 # 7DaysOfCodeAlura
-Repositório criado para desafios de código da Alura
+Desafio 1 - Coletar dados, unificar em um único Dataframe, mesclar Dataframes (Emprestimos e Exemplares), limpar dados nulos e duplicados
