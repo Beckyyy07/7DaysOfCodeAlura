@@ -6,3 +6,4 @@
 
 ***Desafio 3 - Análise exploratória de dados e DateTime*** - Verificar quantidade total de exemplares emprestados e de emprestimos realizados, verificar quantidade total de exemplares emprestados por ano, mês e hora, plotar gráficos com cada um desses valores e fazer análise de cada resultado.
 
+***Desafio 4 - Análise exploratória de dados e Variáveis categóricas*** - Verificar valores únicos nas colunas ('Tipo de vinculo', 'coleção', 'Biblioteca', 'CDU'). Criar tabela com a frequência e calcular o percentual. Automatizar com função para gerar a tabela.
